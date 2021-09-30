@@ -10,7 +10,7 @@ https://github.com/sultanbst123/Telco_customer_churn/blob/main/Churn%20customer.
 
 # (2)data modeling with python
 
-Wait
+https://github.com/sultanbst123/work_hours_prediction-competition-/blob/main/Work_hours_prediction(modelling).ipynb
 
 # Dataset dan informasi:
 https://machinehack.com/hackathons/fortnight_hackathon_series_for_data_scientists_work_hour_prediction_challenge/overview
