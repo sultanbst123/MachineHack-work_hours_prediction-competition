@@ -6,7 +6,7 @@ Dalam hackathon ini saya perlu memprediksi jam kerja per minggu di lokasi yang b
 Terbagi 2 notebook:
 # (1)data analysis with python
 
-https://github.com/sultanbst123/Telco_customer_churn/blob/main/Churn%20customer.ipynb
+https://github.com/sultanbst123/work_hours_prediction-competition-/blob/main/Work_hours_prediction.ipynb
 
 # (2)data modeling with python
 
